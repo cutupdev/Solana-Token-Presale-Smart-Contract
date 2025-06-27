@@ -97,4 +97,4 @@ e.g. yarn script set-stage -s 1
 ### Contact Information
 - Telegram: https://t.me/DevCutup
 - Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/januscutup
+- Twitter: https://x.com/devcutup
